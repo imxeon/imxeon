@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imxeon 😎
-- 👀 I’m interested in creating webpages 🌐
-- 🌱 I’m currently learning Advance JavaScript and CSS 👨‍💻
+- 👋 Hi, I’m @imxeon a web developer 😎
+- 👀 I’m interested in creating web applications 🌐
+- 🌱 I’m currently learning advance JavaScript and CSS 👨‍💻
 - 📫 You can reach me through [Linkedin](https://www.linkedin.com/in/pritam-imxeon/) 🔗
 - 😄 Pronouns: He/Him 👦
 - ⚡ Fun fact: I code without coffee 🍵.
